@@ -1,0 +1,19 @@
+.DS_Store
+Thumbs.db
+*.psd
+*.ai
+.sass-cache/
+/node_modules/
+/release.zip
+/release/
+/gitignore/
+
+
+# WordPress
+
+/htdocs/*.php
+/htdocs/.htaccess
+/htdocs/wp/wp-admin/
+/htdocs/wp/wp-includes/
+/htdocs/wp/wp-content/uploads/
+/htdocs/wp/wp-content/debug.log
